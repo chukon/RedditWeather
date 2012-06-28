@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> 7000c1f0ee413c88f486820452302ccceecb35aa
 # Xcode
 build/*
 *.pbxuser
@@ -14,4 +17,7 @@ build/*
 xcuserdata
 profile
 *.moved-aside
+<<<<<<< HEAD
 DerivedData
+=======
+>>>>>>> 7000c1f0ee413c88f486820452302ccceecb35aa
